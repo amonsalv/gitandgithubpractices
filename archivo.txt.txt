@@ -1,0 +1,4 @@
+Hi, my name is Ana Maria 
+I had 26 years old
+
+And this is a pratice for git and git hub
